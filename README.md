@@ -1,3 +1,5 @@
+AutoClick skip button on youtube ads
+
 ### Steps to Install
 
 1. Download link for the extension (ZIP file).
